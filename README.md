@@ -1,4 +1,4 @@
-# Проект «API для Yatube»
+# Проект «API_Final_Yatube»
 
 ## Описание
 
